@@ -1,0 +1,4 @@
+tensorflow
+scipy
+scikit-learn
+opencv-python

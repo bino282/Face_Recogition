@@ -1,0 +1,2 @@
+python face_dection_webcam.py
+pause
