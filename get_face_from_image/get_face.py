@@ -4,7 +4,7 @@ import cv2
 import os
 import detect_face
 
-minsize = 100 
+minsize = 20
 threshold = [ 0.6, 0.7, 0.7 ]  
 factor = 0.709 
 
